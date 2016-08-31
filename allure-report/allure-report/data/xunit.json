@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 63608251072633,
+    "stop" : 63608251073046,
+    "duration" : 413
+  },
+  "testSuites" : [ {
+    "uid" : "ca4e22d418d3acb1",
+    "name" : "РасчетВозврастаЧеловекаВМесяцах",
+    "title" : "РасчетВозврастаЧеловекаВМесяцах",
+    "time" : {
+      "start" : 63608251072633,
+      "stop" : 63608251073046,
+      "duration" : 413
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "bbd91ad8423b1524",
+      "name" : "UnknownTestCase",
+      "title" : "Unknown test case",
+      "time" : {
+        "start" : 63608251072633,
+        "stop" : 63608251073046,
+        "duration" : 413
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "default",
+    "threads" : [ {
+      "title" : "default",
+      "testCases" : [ {
+        "uid" : "bbd91ad8423b1524",
+        "name" : "UnknownTestCase",
+        "title" : "Unknown test case",
+        "time" : {
+          "start" : 63608251072633,
+          "stop" : 63608251073046,
+          "duration" : 413
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

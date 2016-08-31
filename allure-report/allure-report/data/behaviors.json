@@ -1,0 +1,37 @@
+{
+  "features" : [ {
+    "title" : "РасчетВозврастаЧеловекаВМесяцах",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "6590fdc99a5f558",
+      "title" : "",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "bbd91ad8423b1524",
+        "name" : "UnknownTestCase",
+        "title" : "Unknown test case",
+        "time" : {
+          "start" : 63608251072633,
+          "stop" : 63608251073046,
+          "duration" : 413
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
