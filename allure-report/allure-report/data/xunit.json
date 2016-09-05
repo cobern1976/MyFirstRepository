@@ -5,7 +5,7 @@
     "duration" : 413
   },
   "testSuites" : [ {
-    "uid" : "ca4e22d418d3acb1",
+    "uid" : "3fbe59d44f23d870",
     "name" : "РасчетВозврастаЧеловекаВМесяцах",
     "title" : "РасчетВозврастаЧеловекаВМесяцах",
     "time" : {
@@ -23,7 +23,7 @@
     },
     "description" : null,
     "testCases" : [ {
-      "uid" : "bbd91ad8423b1524",
+      "uid" : "27d6b52ec8f1a9ae",
       "name" : "UnknownTestCase",
       "title" : "Unknown test case",
       "time" : {

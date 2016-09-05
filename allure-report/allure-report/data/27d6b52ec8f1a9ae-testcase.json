@@ -1,0 +1,77 @@
+{
+  "uid" : "27d6b52ec8f1a9ae",
+  "name" : "UnknownTestCase",
+  "title" : "Unknown test case",
+  "time" : {
+    "start" : 63608251072633,
+    "stop" : 63608251073046,
+    "duration" : 413
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 2
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "3fbe59d44f23d870",
+    "name" : "РасчетВозврастаЧеловекаВМесяцах",
+    "title" : "РасчетВозврастаЧеловекаВМесяцах"
+  },
+  "steps" : [ {
+    "name" : "Допустим дата рождения 01.02.1980",
+    "title" : "Допустим дата рождения 01.02.1980",
+    "time" : {
+      "start" : 63608251072892,
+      "stop" : 63608251072893,
+      "duration" : 1
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда Возраст в месяцах равен 438 (текущая дата 31.08.2016)",
+    "title" : "Тогда Возраст в месяцах равен 438 (текущая дата 31.08.2016)",
+    "time" : {
+      "start" : 63608251073040,
+      "stop" : 63608251073045,
+      "duration" : 5
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "РасчетВозврастаЧеловекаВМесяцах"
+  }, {
+    "name" : "feature",
+    "value" : "РасчетВозврастаЧеловекаВМесяцах"
+  }, {
+    "name" : "story",
+    "value" : ""
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}
